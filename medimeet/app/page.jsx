@@ -68,10 +68,10 @@ export default function Home() {
         <div className="container mx-auto px-4">
           <div className="text-center mb-16">
             <h2 className="text-3xl md:text-4xl font-bold text-white mb-4">
-              How It Works
+              How It Works.?
             </h2>
             <p className="text-muted-foreground text-lg max-w-2xl mx-auto">
-              Our platform makes healthcare accessible with just a few clicks
+              Our platform makes healthcare accessible with just a few clicks.
             </p>
           </div>
 
@@ -113,7 +113,7 @@ export default function Home() {
             </h2>
             <p className="text-muted-foreground text-lg max-w-2xl mx-auto">
               Choose the perfect consultation package that fits your healthcare
-              needs
+              needs.
             </p>
           </div>
 
@@ -126,7 +126,7 @@ export default function Home() {
               <CardHeader>
                 <CardTitle className="text-xl font-semibold text-white flex items-center">
                   <Stethoscope className="h-5 w-5 mr-2 text-emerald-400" />
-                  How Our Credit System Works
+                  How Our Credit System Works.?
                 </CardTitle>
               </CardHeader>
               <CardContent>
@@ -173,10 +173,10 @@ export default function Home() {
               Success Stories
             </Badge>
             <h2 className="text-3xl md:text-4xl font-bold text-white mb-4">
-              What Our Users Say
+              What Our Users Say.?
             </h2>
             <p className="text-muted-foreground text-lg max-w-2xl mx-auto">
-              Hear from patients and doctors who use our platform
+              Hear from patients and doctors who use our platform.
             </p>
           </div>
 
@@ -219,7 +219,7 @@ export default function Home() {
             <CardContent className="p-8 md:p-12 lg:p-16 relative overflow-hidden">
               <div className="max-w-2xl relative z-10">
                 <h2 className="text-3xl md:text-4xl font-bold text-white mb-6">
-                  Ready to take control of your healthcare?
+                  Ready to take control of your healthcare.?
                 </h2>
                 <p className="text-lg text-muted-foreground mb-8">
                   Join thousands of users who have simplified their healthcare

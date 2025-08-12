@@ -72,18 +72,20 @@ export function SlotPicker({ days, onSelectSlot }) {
                   {day.slots.map((slot) => (
                     <Card
                       key={slot.startTime}
-                      className={`border-emerald-900/20 cursor-pointer transition-all ${selectedSlot?.startTime === slot.startTime
+                      className={`border-emerald-900/20 cursor-pointer transition-all ${
+                        selectedSlot?.startTime === slot.startTime
                           ? "bg-emerald-900/30 border-emerald-600"
                           : "hover:border-emerald-700/40"
-                        }`}
+                      }`}
                       onClick={() => handleSlotSelect(slot)}
                     >
                       <CardContent className="p-3 flex items-center">
                         <Clock
-                          className={`h-4 w-4 mr-2 ${selectedSlot?.startTime === slot.startTime
+                          className={`h-4 w-4 mr-2 ${
+                            selectedSlot?.startTime === slot.startTime
                               ? "text-emerald-400"
                               : "text-muted-foreground"
-                            }`}
+                          }`}
                         />
                         <span
                           className={
