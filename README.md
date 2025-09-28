@@ -1,2 +1,2 @@
 # Doctors-Appointment-Platform
- Next JS, Vonage, Tailwind, Prisma, Shadcn
+ Next JS,React JS, Vonage, Tailwind, Prisma, NeonDB, Shadcn UI, Tailwind.
