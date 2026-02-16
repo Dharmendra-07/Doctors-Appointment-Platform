@@ -1,17 +1,16 @@
 # 🏥 Doctors Appointment Platform
-<<<<<<< HEAD
-
-[Live Demo](https://doctors-appointment-platform-one.vercel.app/)
-
-**Dashboard Snapshot:**
-
-![Doctor Dashboard](./public/dashboard.png)
 
 **Full-Stack Doctors Appointment Platform with Video Call** – A modern web app built using **Next.js**, **React 19**, **Tailwind CSS**, **Shadcn UI**, **Prisma**, **NeonDB**, **Clerk Authentication**, and **Vonage Video API**.
 
 This project is perfect for your resume—it demonstrates authentication, database management, subscription plans, real-time video calls, admin & doctor dashboards, and much more.
 
 ---
+
+[Live Demo](https://doctors-appointment-platform-one.vercel.app/)
+
+**Dashboard Snapshot:**
+
+![Doctor Dashboard](./public/dashboard.png)
 
 ## 🎯 Features
 
