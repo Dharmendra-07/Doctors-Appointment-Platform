@@ -11,13 +11,11 @@ This project is perfect for your resume—it demonstrates authentication, databa
     <img src="https://img.shields.io/github/license/Dharmendra-07/ai-recipe-platform?style=for-the-badge" />
   </a>
 </p>
-
+---
 <p align="center">
   <a href="https://doctors-appointment-platform-one.vercel.app/">🌐 Live Demo</a> •
   <a href="https://github.com/Dharmendra-07/Doctors-Appointment-Platform">📦 GitHub Repo</a>
 </p>
-
----
 
 **Dashboard Snapshot:**
 
