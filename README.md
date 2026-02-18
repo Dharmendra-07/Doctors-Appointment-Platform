@@ -5,8 +5,18 @@
 This project is perfect for your resume—it demonstrates authentication, database management, subscription plans, real-time video calls, admin & doctor dashboards, and much more.
 
 ---
+<p align="center">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <a href="LICENSE">
+    <img src="https://img.shields.io/github/license/Dharmendra-07/ai-recipe-platform?style=for-the-badge" />
+  </a>
+</p>
 
-[Live Demo](https://doctors-appointment-platform-one.vercel.app/)
+<p align="center">
+  <a href="https://doctors-appointment-platform-one.vercel.app/">🌐 Live Demo</a> •
+  <a href="https://github.com/Dharmendra-07/Doctors-Appointment-Platform">📦 GitHub Repo</a>
+</p>
 
 **Dashboard Snapshot:**
 
